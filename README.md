@@ -1,6 +1,9 @@
 # AP-State-Skill-Development-Corporation-Vishvodaya-Online
 This repo contains files of concepts discussed in the workshop
 
+## Day-1 PPT
+[Link](https://drive.google.com/drive/u/9/folders/1zSpfsFdO9ti7k90JOLOaJ-ut7DqjWJum)
+
 ## Daily Recorded sessions Links:
 [Day 2](https://transcripts.gotomeeting.com/#/s/045cdf5dad4665dda6fe74fa7985a1b1983afd5d4e182f2c3348470a60ea4ada)
 
