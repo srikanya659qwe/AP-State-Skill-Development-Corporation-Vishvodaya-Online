@@ -21,5 +21,7 @@ This repo contains files of concepts discussed in the workshop
 
 [Labprograms-Day1](https://transcripts.gotomeeting.com/#/s/4955e33466a484679dc3699391623a24ca5c85eaa689395613c5a4335a290820)
 
+[Labprograms-Day2](https://transcripts.gotomeeting.com/#/s/314d4cdfbacc9a2dc88376f20d9621046d534a319a4d680969bb092b972c46cf)
+
 
 
